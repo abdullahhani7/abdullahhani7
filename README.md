@@ -8,7 +8,7 @@ Hi! My name is Abdullah Hani 😄
 
 ### Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next,redux)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=materialui,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next,redux)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=materialui,vite)](https://skillicons.dev)
 <br/>
 
 
