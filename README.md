@@ -1,15 +1,20 @@
-Hi! My name is Stefan Topalović 😄
+Hi! My name is Abdullah Hani 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
+🌍  I am a Front-End Developer based in Damietta, Egypt.
 <br/>
 💻  Open to work!
 <br/>
 
 ### Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=materialui,vite)](https://skillicons.dev)
 <br/>
+
 
 ### Socials
 
